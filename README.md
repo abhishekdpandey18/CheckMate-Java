@@ -4,8 +4,11 @@
 To build a two-player GUI-based Chess game in Java, focusing on game rules, move validation, and an interactive interface. The project helps improve skills in object-oriented programming and GUI development.
 
 ---
-
+## 📸 Screenshots
 ![Screenshot](https://github.com/abhishekdpandey18/CheckMate-Java/blob/main/Screenshots/png1.png?raw=true)
+![Screenshot](https://github.com/abhishekdpandey18/CheckMate-Java/blob/main/Screenshots/png2.png?raw=true)
+![Screenshot](https://github.com/abhishekdpandey18/CheckMate-Java/blob/main/Screenshots/png3.png?raw=true)
+![Screenshot](https://github.com/abhishekdpandey18/CheckMate-Java/blob/main/Screenshots/png4.png?raw=true)
 
 
 ## ✅ 1. 🛠️ Development Setup (2 Marks)
