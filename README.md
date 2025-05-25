@@ -7,6 +7,14 @@ To build a two-player GUI-based Chess game in Java, focusing on game rules, move
 ## 📸 Screenshots
 ![png1](Screenshots/png1.png) ![png2](Screenshots/png2.png)  
 ![png3](Screenshots/png3.png) ![png4](Screenshots/png4.png)
+<p align="center">
+  <img src="Screenshots/png1.png" width="200"/>
+  <img src="Screenshots/png2.png" width="200"/>
+  <br>
+  <img src="Screenshots/png3.png" width="200"/>
+  <img src="Screenshots/png4.png" width="200"/>
+</p>
+
 
 
 
