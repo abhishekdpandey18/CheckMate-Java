@@ -115,59 +115,44 @@ public class DatabaseConnection {
 To manage database interactions cleanly and efficiently, we implemented:
 
 🧩 MoveRecord.java (Model)
-This class represents a single record of a chess move. It includes:
-
-moveNumber – The sequential number of the move.
-
-whiteMove – Move made by the White player.
-
-blackMove – Move made by the Black player. 
+- This class represents a single record of a chess move. It includes:
+- moveNumber – The sequential number of the move.
+- whiteMove – Move made by the White player.
+- blackMove – Move made by the Black player. 
 
 ---
 
 ## ✅ 7. 🎨 Aesthetics and UI Design (4 Marks)
-We enhanced the user interface of the Java Chess game to improve usability and visual appeal by:
-
-Using custom fonts for a cleaner and more modern look.
-
-Optimizing layouts with appropriate spacing and component alignment.
-
-Adding colors to differentiate player moves and highlight game states (e.g., check, checkmate).
-
-Incorporating icons and images for chess pieces and game status indicators.
-
-Ensuring the UI adapts well to different window sizes for better responsiveness.
-
-These improvements help create a more engaging and intuitive gameplay experience.
+- We enhanced the user interface of the Java Chess game to improve usability and visual appeal by:
+- Using custom fonts for a cleaner and more modern look.
+- Optimizing layouts with appropriate spacing and component alignment.
+- Adding colors to differentiate player moves and highlight game states (e.g., check, checkmate).
+- Incorporating icons and images for chess pieces and game status indicators.
+- Ensuring the UI adapts well to different window sizes for better responsiveness.
+-These improvements help create a more engaging and intuitive gameplay experience.
 
 ---
 
 ## ✅ 8. 🥇Component Placement (2 Marks)
-The game GUI components are thoughtfully arranged to ensure clarity and usability:
-
-All panels and elements (chessboard, move history, taken pieces) are properly aligned using layout managers.
-
-Consistent spacing and sizing maintain a balanced and clean interface.
-
-Scroll panes and tables resize gracefully, keeping the move history accessible and readable.
-
-No major redesign was needed since the existing layout was already well-structured and user-friendly.
+- The game GUI components are thoughtfully arranged to ensure clarity and usability:
+- All panels and elements (chessboard, move history, taken pieces) are properly aligned using layout managers.
+- Consistent spacing and sizing maintain a balanced and clean interface.
+- Scroll panes and tables resize gracefully, keeping the move history accessible and readable.
+- No major redesign was needed since the existing layout was already well-structured and user-friendly.
 
 ---
 
 ## ✅ 9. ⌨️ Responsiveness & Accessibility (2 Marks)
-To enhance user experience, we incorporated:
-
-Keyboard shortcuts for common actions (e.g., undo move, restart game) to speed up gameplay.
-
-Tooltips on buttons and interactive components to guide users intuitively.
-
-A scalable layout that adjusts gracefully to different window sizes (optional but encouraged).
-
-These improvements make the game more accessible and user-friendly for a wider audience.
+- To enhance user experience, we incorporated:
+- Keyboard shortcuts for common actions (e.g., undo move, restart game) to speed up gameplay.
+- Tooltips on buttons and interactive components to guide users intuitively.
+- A scalable layout that adjusts gracefully to different window sizes (optional but encouraged).
+- These improvements make the game more accessible and user-friendly for a wider audience.
 
 ---
 
 ## ✅10. ⌨️ Play! Enjoy Guys
-♟️ Why did the chess player bring a ladder to the game?
+- ♟️ Why did the chess player bring a ladder to the game?
 Because they heard the king was in a high position! 😄
+- ♟️ Why don’t chess players ever get locked out of their houses?
+Because they always have a key square! 😄
