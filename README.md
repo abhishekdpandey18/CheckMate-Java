@@ -6,17 +6,15 @@ To build a two-player GUI-based Chess game in Java, focusing on game rules, move
 ---
 
 ## 📌 Features
-- Full Chess rule enforcement
-- Local two-player mode
-- Interactive GUI using Java Swing
-- Special moves: castling, en passant, promotion
-- Check and checkmate detection
 - 🧠 Smart move validation and check/checkmate detection
 - 🎨 Customizable GUI using Java Swing
 - 🧑‍🤝‍🧑 Local 2-player mode
 - ♟️ Accurate piece movement rules
 - 💾 Save/load game (if implemented)
-
+- 🧰 Full Chess rule enforcement
+- ☕ Interactive GUI using Java Swing
+- 💡 Special moves: castling, en passant, promotion
+- ☑️ Check and checkmate detection
 
 
 ## 📸 Screenshots
