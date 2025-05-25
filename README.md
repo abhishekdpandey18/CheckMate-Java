@@ -165,3 +165,9 @@ Tooltips on buttons and interactive components to guide users intuitively.
 A scalable layout that adjusts gracefully to different window sizes (optional but encouraged).
 
 These improvements make the game more accessible and user-friendly for a wider audience.
+
+---
+
+## ✅10. ⌨️ Play! Enjoy Guys
+♟️ Why did the chess player bring a ladder to the game?
+Because they heard the king was in a high position! 😄
