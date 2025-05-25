@@ -31,7 +31,7 @@ To build a two-player GUI-based Chess game in Java, focusing on game rules, move
 
 - [**Abhishek Pandey**](https://github.com/abhishekdpandey18) – Project Author & Documentation Writer
 - [**Abhyudaya Singh**](https://github.com/username) – Game Logic Developer
-- [**Edmund Emmanuel Magori**](https://github.com/username) – UI/UX Designer
+- [**Edmund Emmanuel Magori**](https://github.com/kyliz) – UI/UX Designer
 - [**Abdulrahman Abdulnasir Hamza**](https://github.com/username) – GUI Developer
 
 ***
