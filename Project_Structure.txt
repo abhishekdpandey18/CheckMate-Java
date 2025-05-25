@@ -1,0 +1,60 @@
+JavaChess-main/
+├── .idea/                         # IntelliJ project config files
+├── bin/                           # Compiled class files
+│   └── com/
+│       └── chess/
+│           └── engine/
+│               ├── board/
+│               │   ├── Board.java
+│               │   ├── BoardUtils.java
+│               │   ├── Builder.java
+│               │   ├── Move/
+│               │   │   ├── AttackMove.java
+│               │   │   ├── CastleMove.java
+│               │   │   ├── KingSideCastleMove.java
+│               │   │   ├── MajorMove.java
+│               │   │   ├── MoveFactory.java
+│               │   │   ├── NullMove.java
+│               │   │   ├── PawnAttackMove.java
+│               │   │   ├── PawnEnPassantAttackMove.java
+│               │   │   ├── PawnJump.java
+│               │   │   ├── PawnMove.java
+│               │   │   ├── PawnPromotion.java
+│               │   │   └── QueenSideCastleMove.java
+│               │   └── Tile/
+│               │       ├── EmptyTile.java
+│               │       └── OccupiedTile.java
+│               ├── pieces/
+│               │   ├── Bishop.java
+│               │   ├── King.java
+│               │   ├── Knight.java
+│               │   ├── Pawn.java
+│               │   ├── Piece.java
+│               │   ├── Queen.java
+│               │   └── Rook.java
+│               ├── player/
+│               │   ├── ai/
+│               │   │   ├── BoardEvaluator.java
+│               │   │   ├── MiniMax.java
+│               │   │   ├── MoveStrategy.java
+│               │   │   └── StandardBoardEvaluator.java
+│               │   ├── BlackPlayer.java
+│               │   ├── MoveStatus.java
+│               │   ├── MoveTransition.java
+│               │   ├── Player.java
+│               │   └── WhitePlayer.java
+│               └── Alliance.java
+├── src/                           # Source files (same structure as /bin)
+├── GUI/
+│   ├── GameHistoryPanel.java
+│   ├── GameSetUp.java
+│   ├── Table.java
+│   └── TakenPiecesPanel.java
+├── Chess pieces/                 # Image assets for the chess pieces
+│   ├── BB.gif, BK.gif, BN.gif, BP.gif, BQ.gif, BR.gif
+│   ├── WB.gif, WK.gif, WN.gif, WP.gif, WQ.gif, WR.gif
+│   ├── green_dot.png, red_dot.png, illegal.png
+├── JChess.java                   # Main entry point
+├── JavaChess-main.iml            # IntelliJ project file
+├── README.md
+└── out/                          # Compiled output files
