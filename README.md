@@ -5,10 +5,9 @@ To build a two-player GUI-based Chess game in Java, focusing on game rules, move
 
 ---
 ## 📸 Screenshots
-![Screenshot](https://github.com/abhishekdpandey18/CheckMate-Java/blob/main/Screenshots/png1.png?raw=true)
-![Screenshot](https://github.com/abhishekdpandey18/CheckMate-Java/blob/main/Screenshots/png2.png?raw=true)
-![Screenshot](https://github.com/abhishekdpandey18/CheckMate-Java/blob/main/Screenshots/png3.png?raw=true)
-![Screenshot](https://github.com/abhishekdpandey18/CheckMate-Java/blob/main/Screenshots/png4.png?raw=true)
+![png1](Screenshots/png1.png) ![png2](Screenshots/png2.png)  
+![png3](Screenshots/png3.png) ![png4](Screenshots/png4.png)
+
 
 
 ## ✅ 1. 🛠️ Development Setup (2 Marks)
