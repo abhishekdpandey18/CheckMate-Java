@@ -4,14 +4,6 @@
 To build a two-player GUI-based Chess game in Java, focusing on game rules, move validation, and an interactive interface. The project helps improve skills in object-oriented programming and GUI development.
 
 ---
-## 📸 Screenshots
-<p align="center">
-  <img src="Screenshots/png1.png" width="200"/>
-  <img src="Screenshots/png2.png" width="200"/>
-  <br>
-  <img src="Screenshots/png3.png" width="200"/>
-  <img src="Screenshots/png4.png" width="200"/>
-</p>
 
 ## 📌 Features
 - Full Chess rule enforcement
@@ -20,6 +12,15 @@ To build a two-player GUI-based Chess game in Java, focusing on game rules, move
 - Special moves: castling, en passant, promotion
 - Check and checkmate detection
 
+
+## 📸 Screenshots
+<p align="center">
+  <img src="Screenshots/png1.png" width="200"/>
+  <img src="Screenshots/png2.png" width="200"/>
+  <br>
+  <img src="Screenshots/png3.png" width="200"/>
+  <img src="Screenshots/png4.png" width="200"/>
+</p>
 
 ***
 
