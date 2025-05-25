@@ -22,6 +22,12 @@ To build a two-player GUI-based Chess game in Java, focusing on game rules, move
   <img src="Screenshots/png4.png" width="200"/>
 </p>
 
+### 👥 Contributors
+
+- [**Abhishek Pandey**](https://github.com/abhishekdpandey18) – Project Author & Developer  
+- [**Contributor Name**](https://github.com/username) – Role/Contribution
+
+
 ***
 
 ## ✅ 1. 🛠️ Development Setup (2 Marks)
