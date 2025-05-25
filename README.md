@@ -21,6 +21,7 @@ To build a two-player GUI-based Chess game in Java, focusing on game rules, move
 - Check and checkmate detection
 
 
+***
 
 ## ✅ 1. 🛠️ Development Setup (2 Marks)
 
