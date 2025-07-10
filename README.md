@@ -131,6 +131,6 @@ Keyboard shortcuts for common actions (e.g., undo move, restart game) to speed u
 
 Tooltips on buttons and interactive components to guide users intuitively.
 
-A scalable layout that adjusts gracefully to different window sizes (optional but encouraged).
+A scalable layout that adjusts gracefully to different window sizes.
 
 These improvements make the game more accessible and user-friendly for a wider audience.
