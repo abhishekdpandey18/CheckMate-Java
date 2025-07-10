@@ -36,7 +36,7 @@ To build a two-player GUI-based Chess game in Java, focusing on game rules, move
 
 ***
 
-## ✅ 1. 🛠️ Development Setup (2 Marks)
+## ✅ 1. 🛠️ Development Setup 
 
 ### ✅ JDK Version         
 - **JDK Version**: `Java SE Development Kit 17`
@@ -49,17 +49,17 @@ To build a two-player GUI-based Chess game in Java, focusing on game rules, move
    
 ---
 
-## ✅ 2. ✨ Project Structure       (1 Marks)
+## ✅ 2. ✨ Project Structure      
 - The project Structure in already given in a text file `CheckMate ## Project Structure.txt`
 
 ---
 
-## ✅ 3. 🗃️ Database Schema Design (1 Marks)
+## ✅ 3. 🗃️ Database Schema Design 
 The project uses a MySQL database to store chess game details and move history.
 
 ---
  
-## ✅ 4. 📂 MySQL Tables   (1 Marks)
+## ✅ 4. 📂 MySQL Tables   
 
 - **Game**  
   Stores the overall game information like player names, winner, and timestamps.
@@ -80,7 +80,7 @@ CREATE TABLE MoveHistory (...);
 ---
 
  
-## ✅ 5. 🌸 JDBC Implementation (3 Marks)
+## ✅ 5. 🌸 JDBC Implementation 
 
 We've successfully implemented JDBC to enable interaction between our Java Chess game and a MySQL database.
 
@@ -111,7 +111,7 @@ public class DatabaseConnection {
 ---
 
 
-## ✅ 6. 🎀 Create Model & DAO (3 Marks)
+## ✅ 6. 🎀 Create Model & DAO 
 To manage database interactions cleanly and efficiently, we implemented:
 
 🧩 MoveRecord.java (Model)
@@ -122,7 +122,7 @@ To manage database interactions cleanly and efficiently, we implemented:
 
 ---
 
-## ✅ 7. 🎨 Aesthetics and UI Design (4 Marks)
+## ✅ 7. 🎨 Aesthetics and UI Design 
 - We enhanced the user interface of the Java Chess game to improve usability and visual appeal by:
 - Using custom fonts for a cleaner and more modern look.
 - Optimizing layouts with appropriate spacing and component alignment.
@@ -133,7 +133,7 @@ To manage database interactions cleanly and efficiently, we implemented:
 
 ---
 
-## ✅ 8. 🥇Component Placement (2 Marks)
+## ✅ 8. 🥇Component Placement
 - The game GUI components are thoughtfully arranged to ensure clarity and usability:
 - All panels and elements (chessboard, move history, taken pieces) are properly aligned using layout managers.
 - Consistent spacing and sizing maintain a balanced and clean interface.
@@ -142,7 +142,7 @@ To manage database interactions cleanly and efficiently, we implemented:
 
 ---
 
-## ✅ 9. ⌨️ Responsiveness & Accessibility (2 Marks)
+## ✅ 9. ⌨️ Responsiveness & Accessibility
 - To enhance user experience, we incorporated:
 - Keyboard shortcuts for common actions (e.g., undo move, restart game) to speed up gameplay.
 - Tooltips on buttons and interactive components to guide users intuitively.
